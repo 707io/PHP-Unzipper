@@ -60,7 +60,3 @@ A lightweight PHP-based application that enables you to compress files into zip 
 
 - `.rar` extraction requires the `rar` PHP extension, which may not be enabled by default.
 - Extraction and compression operations are limited by the server's file and memory limits.
-
-## Author
-
-[Austine Luis](https://github.com/auslui)
